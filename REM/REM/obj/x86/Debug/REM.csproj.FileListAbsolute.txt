@@ -1,0 +1,12 @@
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.Form1.resources
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.Properties.Resources.resources
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.csproj.GenerateResource.Cache
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\bin\Debug\REM.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\bin\Debug\REM.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\bin\Debug\Arch.dll
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\bin\Debug\Arch.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REM\REM\obj\x86\Debug\REM.csprojResolveAssemblyReference.cache
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REMEDIAL_COR\REM\REM\obj\x86\Debug\REM.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\REMEDIAL_COR\REM\REM\obj\x86\Debug\REM.pdb

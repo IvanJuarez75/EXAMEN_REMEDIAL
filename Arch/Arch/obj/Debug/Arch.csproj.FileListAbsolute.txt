@@ -1,0 +1,4 @@
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\Arch\Arch\bin\Debug\Arch.dll
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\Arch\Arch\bin\Debug\Arch.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\Arch\Arch\obj\Debug\Arch.dll
+C:\Users\BlueEyes\Documents\Visual Studio 2010\Projects\Arch\Arch\obj\Debug\Arch.pdb
